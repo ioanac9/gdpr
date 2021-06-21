@@ -4,7 +4,7 @@ Student: Constantinescu Ioana <br>
   document.cookie = "collecting data...";
   function alertCookie() { alert(document.cookie); } </script>
  <button onclick="alertCookie()">Show cookies</button>
- <br>
+ <br><br>
  <script> document.cookie = "test1=Hello";
   document.cookie = "test2=World";
   const cookieValue = document.cookie
