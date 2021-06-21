@@ -5,6 +5,7 @@ Student: Constantinescu Ioana <br>
   function alertCookie() { alert(document.cookie); } </script>
  <button onclick="alertCookie()">Show cookies</button>
  <br><br>
+ 
  <script> document.cookie = "test1=Hello";
   document.cookie = "test2=World";
   const cookieValue = document.cookie
@@ -28,5 +29,5 @@ function resetOnce() {
   document.cookie = "doSomethingOnlyOnce=; expires=Thu, 01 Jan 1970 00:00:00 GMT";}</script>
  <button onclick="resetOnce()">Reset only once cookie</button> 
 
-Date:
+<h1>Data:</h1>
 <script> var dt = new Date(); document.getElementById("datetime").innerHTML = dt.toLocaleDateString(); </script>
