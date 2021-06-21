@@ -42,31 +42,33 @@ Universitatea Tehnică din Cluj-Napoca, cu sediul în Cluj-Napoca, str. Memorand
 art. 7 din Regulamentul (UE) nr. 679/2016 
 
 Prelucrarea datelor cu caracter personal existente în formularele, documentele personale și documentele corespunzătoare studiilor dumneavoastră, se face în baza legilor menționate mai sus și a consimțământului dumneavoastră, pentru acele categorii de date personale care nu sunt acoperite de lege, astfel: 
+<table>
+<tr>
+  <th>  Activități de prelucrare </th>
+  <th> Perioada de stocare și prelucrare estimată </th>
+  <th> Tipul de date personale/ documente personale </th>
+  <th> Consimțământ (se marchează cu X ) </th>
+</tr>
+<tr>
+  <td>Completarea formularelor solicitate în cadrul procesului de selecție și de către universitatile partenere din cadrul programului Erasmus + sau alte instituții</td>
+  <td>Minim 3 ani / arhivare conform legislației naționale </td>
+  <td>Nume si prenume, data nasterii, locul de nastere, adresa de domiciliu, adresa de flotant, cetatenie, prenumele parintilor, anul de studiu, facultatea, universitatea. <br>
 
+Adresă de e-mail* <br>
 
-Activități de prelucrare 
-
-
-Perioada de stocare și prelucrare estimată 
-Tipul de date personale/ documente personale 
-Consimțământ (se marchează cu X )
-Completarea formularelor solicitate în cadrul procesului de selecție și de către universitatile partenere din cadrul programului Erasmus + sau alte instituții
-Minim 3 ani / arhivare conform legislației naționale 
-Nume si prenume, data nasterii, locul de nastere, adresa de domiciliu, adresa de flotant, cetatenie, prenumele parintilor, anul de studiu, facultatea, universitatea.
-
-Adresă de e-mail* 
-
-Număr de telefon*
-
-Contractele financiare pentru desfășurarea de mobilități Erasmus + 
-Minim 3 ani / arhivare conform legislației naționale
-
-Nume si prenume, data nasterii, CNP, adresa de domiciliu, cetatenie, prenumele parintilor, anul de studiu, facultatea, universitatea, contul IBAN (in Euro si in Lei)
-
+Număr de telefon*<br>
+  </td>
+</tr>
+<tr>
+  <td> Contractele financiare pentru desfășurarea de mobilități Erasmus + </td>
+  <td>Minim 3 ani / arhivare conform legislației naționale</td>
+  <td>Nume si prenume, data nasterii, CNP, adresa de domiciliu, cetatenie, prenumele parintilor, anul de studiu, facultatea, universitatea, contul IBAN (in Euro si in Lei)
+<br>
 Adresă de e-mail*
+    <br>
 Număr de telefon* 
-
-
+</td>
+</tr>
 
 
 Datele din tabelul prezentat, sunt date obligatorii pentru îndeplinirea obligațiilor legale în cadrul procesului de selecție Erasmus și efectuarea de mobilități Erasmus. În cazul refuzului de a ne oferi consimțământul, nu putem îndeplini obligațiile conform legislației în domeniul educației și cooperarării internaționale.
