@@ -28,6 +28,3 @@ Student: Constantinescu Ioana <br>
 function resetOnce() {
   document.cookie = "doSomethingOnlyOnce=; expires=Thu, 01 Jan 1970 00:00:00 GMT";}</script>
  <button onclick="resetOnce()">Reset only once cookie</button> 
-
-<h1>Data:</h1>
-<script> var dt = new Date(); document.getElementById("datetime").innerHTML = dt.toLocaleDateString(); </script>
