@@ -1,10 +1,11 @@
 Student: Constantinescu Ioana <br>
 
 <script> document.cookie = "session: GDPR";
-  document.cookie = "collecting data";
+  document.cookie = "collecting data...";
   function alertCookie() { alert(document.cookie); } </script>
  <button onclick="alertCookie()">Show cookies</button>
- 
+ <script> allCookies = document.cookie; document.cookie = newCookie; document.cookie = "your operating system is : Windows 10"; document.cookie = "your location: Romania"; function alertCookie() { alert(document.cookie); } </script>
+Show cookies
  <script> document.cookie = "test1=Hello";
   document.cookie = "test2=World";
   const cookieValue = document.cookie
@@ -29,5 +30,4 @@ function resetOnce() {
  <button onclick="resetOnce()">Reset only once cookie</button> 
 
 Date:
-
 <script> var dt = new Date(); document.getElementById("datetime").innerHTML = dt.toLocaleDateString(); </script>
