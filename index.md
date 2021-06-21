@@ -53,10 +53,8 @@ Prelucrarea datelor cu caracter personal existente în formularele, documentele 
   <td>Completarea formularelor solicitate în cadrul procesului de selecție și de către universitatile partenere din cadrul programului Erasmus + sau alte instituții</td>
   <td>Minim 3 ani / arhivare conform legislației naționale </td>
   <td>Nume si prenume, data nasterii, locul de nastere, adresa de domiciliu, adresa de flotant, cetatenie, prenumele parintilor, anul de studiu, facultatea, universitatea. <br>
-
 Adresă de e-mail* <br>
-
-Număr de telefon*<br>
+Număr de telefon*
   </td>
 </tr>
 <tr>
