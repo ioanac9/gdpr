@@ -29,7 +29,4 @@ function resetOnce() {
  <button onclick="resetOnce()">Reset only once cookie</button> 
 
 Date:
-<script>
-var today = new Date();
-  document.getElementById("datetime").innerHTML = today.toLocaleDateString();
-</script>
+<script> var dt = new Date(); document.getElementById("datetime").innerHTML = dt.toLocaleDateString(); </script>
