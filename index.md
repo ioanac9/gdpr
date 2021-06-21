@@ -70,7 +70,6 @@ Număr de telefon*
 </td>
 </tr>
 
-
 Datele din tabelul prezentat, sunt date obligatorii pentru îndeplinirea obligațiilor legale în cadrul procesului de selecție Erasmus și efectuarea de mobilități Erasmus. În cazul refuzului de a ne oferi consimțământul, nu putem îndeplini obligațiile conform legislației în domeniul educației și cooperarării internaționale.
  Datele marcate cu (*) nu sunt obligatorii și nu condiționează îndeplinirea obligațiilor de cooperare internațională, dar sunt utile pentru a facilita o comunicare rapidă cu dumneavoastră. Refuzul acordării acestor date, va implica deplasarea dumneavoastră pentru rezolvarea diverselor neclarități.
  Subsemnatul / Subsemnata _________________________________________________, declar că am luat la cunoștință drepturile conform legislației privind prelucrarea datelor cu caracter personal și îmi ofer consimțământul pentru utilizarea acestora în scopurile menționate anterior. 
